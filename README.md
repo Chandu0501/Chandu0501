@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HI This is sai chandu vallaboju
 
 ## ABOUT ME
@@ -7,5 +6,3 @@ I'm a graduate student in the field of computer science at university of dayton.
 gave me profound knowledge on agile and scrum methodologies, Devops Integration (CI/CD).  I have good knowledge on Java, C, Python, JavaScript, Agile, Nodejs.
 
 ## INTEREST IN LEARNING
-
-
