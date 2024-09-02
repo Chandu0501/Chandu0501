@@ -22,3 +22,4 @@ gave me profound knowledge on agile and scrum methodologies, Devops Integration 
 * Snooker
 * Content Creation
 * Video Editing
+* Table Tennis
