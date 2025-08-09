@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sai Chandu Vallaboju
 
 ## 🚀 About Me
-I'm a **Graduate Student in Computer Science** at the **University of Dayton** with **3+ years of experience** as a Software Developer.  
-My recent role as a **Smart Communication Developer** strengthened my expertise in **Agile & Scrum methodologies**, **DevOps integration (CI/CD)**, and building scalable, high-quality applications.
+I'm a **Graduate Student in Computer Science** at the **University of Dayton** with **4+ years of experience** as a Software Developer.  
+My recent role as a **Software Developer** strengthened my expertise in **Agile & Scrum methodologies**, **DevOps integration (CI/CD)**, and building scalable, high-quality applications.
 
 I specialize in **Java development** but also have solid experience in **Python, JavaScript, Node.js, and C**.  
 I’m passionate about writing clean, efficient code and delivering impactful software solutions.
@@ -45,4 +45,4 @@ To grow as a **Java Backend Developer** creating efficient, secure, and scalable
 ---
 
 📫 **Connect with me**  
-[LinkedIn](https://linkedin.com/) | [Email](mailto:youremail@example.com) | [GitHub](https://github.com/YourUsername)
+[LinkedIn](linkedin.com/in/sai-chandu-vallaboju-70b7811b1) | [Email](mailto:saichanduvallaboju@example.com) | [GitHub](https://github.com/chandu0501)
