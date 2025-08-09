@@ -1,25 +1,48 @@
-# Hi, This is Sai Chandu Vallaboju
+# 👋 Hi, I'm Sai Chandu Vallaboju
 
-## ABOUT ME
+## 🚀 About Me
+I'm a **Graduate Student in Computer Science** at the **University of Dayton** with **3+ years of experience** as a Software Developer.  
+My recent role as a **Smart Communication Developer** strengthened my expertise in **Agile & Scrum methodologies**, **DevOps integration (CI/CD)**, and building scalable, high-quality applications.
 
-I'm a graduate student in the field of computer science at university of dayton. I have 3 years of expertise in Technical field as a software developer. My recent work as smart communication developer 
-gave me profound knowledge on agile and scrum methodologies, Devops Integration (CI/CD).  I have good knowledge on Java, C, Python, JavaScript, Agile, Nodejs.
+I specialize in **Java development** but also have solid experience in **Python, JavaScript, Node.js, and C**.  
+I’m passionate about writing clean, efficient code and delivering impactful software solutions.
 
-## INTEREST IN LEARNING
+---
 
-* I'm Looking forward to learn 'GO Languge' from this course.
-* I also have keen interest in mastering "SWIFT - IOS developement".
-* I would like to learn the concepts on Virtual Reality, Augumented Reality.
+## 💻 Technical Skills
+- **Languages:** Java, Python, C, JavaScript, Node.js  
+- **Frameworks & Tools:** Spring Boot, Maven, Git, Docker, Jenkins (CI/CD)  
+- **Databases:** MySQL, PostgreSQL  
+- **Development Practices:** Agile, Scrum, Test-Driven Development (TDD)  
+- **Operating Systems:** Linux, Windows
 
-## WORKING 
+---
 
-* I have been Working on Linux commands and machine learning models very recently to catch up my course. 
-* I'm also working on building applications through swift and android studio.
+## 📚 Currently Learning
+- **Go Language (Golang)** – expanding my backend development toolkit  
+- **Swift (iOS Development)** – building cross-platform mobile apps  
+- **Virtual & Augmented Reality** – exploring immersive technologies  
 
+---
 
-## HOBBIES
+## 🛠️ Current Projects
+- **Linux Command Utilities** – scripting and automation  
+- **Machine Learning Models** – hands-on projects for academic coursework  
+- **Mobile Applications** – Swift (iOS) and Android Studio development  
 
-* Snooker
-* Content Creation
-* Video Editing
-* Table Tennis
+---
+
+## 🎯 Career Goal
+To grow as a **Java Backend Developer** creating efficient, secure, and scalable applications, while integrating cloud and DevOps best practices.
+
+---
+
+## 🎮 Hobbies & Interests
+- Snooker 🎱  
+- Content Creation & Video Editing 🎥  
+- Table Tennis 🏓  
+
+---
+
+📫 **Connect with me**  
+[LinkedIn](https://linkedin.com/) | [Email](mailto:youremail@example.com) | [GitHub](https://github.com/YourUsername)
