@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a **Graduate Student in Computer Science** at the **University of Dayton** with **4+ years of experience** as a Software Developer.  
-My recent role as a **Smart Communication Developer** strengthened my expertise in **Java, Agile/Scrum, DevOps (CI/CD)**, and building scalable, high-quality applications.
+My recent role as a **Software Developer** strengthened my expertise in **Java, Agile/Scrum, DevOps (CI/CD)**, and building scalable, high-quality applications.
 
 I specialize in **Java backend development** but also have experience in **Python, JavaScript, Node.js, React, and C**.  
 I’m passionate about delivering clean, maintainable code and designing solutions that scale.
