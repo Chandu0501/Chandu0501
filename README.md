@@ -87,6 +87,16 @@ I'm a **Java Backend Developer** and a **Graduate Student in Computer Science at
 
 ## 🚀 Featured Projects
 
+### 🔥 [Event-Driven Order Pipeline](https://github.com/Chandu0501/event-driven-order-pipeline)
+Production-grade event-driven order processing system built with Java 17, Spring Boot 3, Kafka, PostgreSQL, and Redis.
+- **Event-driven architecture** with Apache Kafka for async order processing
+- **Idempotency handling** with Redis to prevent duplicate event processing
+- **Circuit breaker** pattern with Resilience4j for fault tolerance
+- **Prometheus metrics** + custom business metrics for observability
+- **JUnit 5 + Mockito** with 75%+ code coverage enforced via JaCoCo
+- **Docker Compose** + GitHub Actions CI/CD pipeline
+- Tech: `Java 17` `Spring Boot 3` `Kafka` `PostgreSQL` `Redis` `Docker` `Kubernetes`
+
 ### 📰 [BBC News Classification — CNN & LSTM](https://github.com/Chandu0501/bbc-news-classification)
 AI-powered news categorization system that classifies articles into Business, Politics, Sport, Tech & Entertainment.
 - Hybrid **CNN-LSTM** model for feature extraction & sequential learning
@@ -117,6 +127,14 @@ A scalable relational database system replicating Instagram's structure for user
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chandu0501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </p>
+
+---
+
+## 🏅 Certifications
+
+- ☁️ **AWS Certified Developer** – Associate
+- ☕ **Oracle Java Developer** Certified
+- 📚 MS in Computer Science — University of Dayton (GPA: 3.79)
 
 ---
 
