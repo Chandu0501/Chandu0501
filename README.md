@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-I'm a **Java Backend Developer** and a **Graduate Student in Computer Science at the University of Dayton**, with **4+ years of professional experience** building, modernizing, and supporting business-critical, high-volume enterprise applications.
+I'm a **Java Backend Developer** and a **Graduate Student in Computer Science at the University of Dayton**, with **5+ years of professional experience** building, modernizing, and supporting business-critical, high-volume enterprise applications.
 
 - 🔭 I specialize in **Java, Spring Boot, microservices, and event-driven systems**
 - 🌱 Currently leveling up in **Go (Golang)**, **Swift / iOS**, and **AR/VR**
