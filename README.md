@@ -1,7 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-<a href="https://github.com/Chandu0501">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0a2540&height=200&section=header&text=Sai%20Chandu%20Vallaboju&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Microservices%20%7C%20Cloud%20%26%20DevOps&descSize=18&descAlignY=58" alt="header banner" />
-</a>
+<h1 align="center">Hi 👋, I'm Sai Chandu Vallaboju</h1>
+<h3 align="center">Java Backend Developer&nbsp;|&nbsp;Microservices&nbsp;|&nbsp;Cloud &amp; DevOps</h3>
 
 <p align="center">
   <a href="https://github.com/Chandu0501">
@@ -106,16 +105,7 @@ A scalable relational database system replicating Instagram's structure for user
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chandu0501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandu0501&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu0501&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandu0501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandu0501&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -136,6 +126,4 @@ I'm focused on **Java Backend / Enterprise Application Developer** roles where I
   📫 Let's connect — <a href="mailto:chanduvallaboju01@gmail.com">chanduvallaboju01@gmail.com</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1f6feb&height=120&section=footer" alt="footer" />
-</p>
+<p align="center"><i>Thanks for visiting — feel free to explore my repositories! ⭐</i></p>
