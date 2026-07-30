@@ -88,14 +88,15 @@ I'm a **Java Backend Developer** and a **Graduate Student in Computer Science at
 ## 🚀 Featured Projects
 
 ### 🔥 [Event-Driven Order Pipeline](https://github.com/Chandu0501/event-driven-order-pipeline)
-Production-grade event-driven order processing system built with Java 17, Spring Boot 3, Kafka, PostgreSQL, and Redis.
+Runnable event-driven order workflow built with Java 17, Spring Boot 3, Kafka, PostgreSQL, and Redis, with its delivery guarantees and limitations documented explicitly.
 - **Event-driven architecture** with Apache Kafka for async order processing
-- **Idempotency handling** with Redis to prevent duplicate event processing
+- **Bounded idempotency handling** with atomic Redis event claims
 - **Circuit breaker** pattern with Resilience4j for fault tolerance
 - **Prometheus metrics** + custom business metrics for observability
-- **JUnit 5 + Mockito** with 75%+ code coverage enforced via JaCoCo
+- **JUnit 5 + Mockito** with 22 passing tests and an enforced whole-project JaCoCo gate
+- **Reproducible k6 workload** with no unsupported production throughput claims
 - **Docker Compose** + GitHub Actions CI/CD pipeline
-- Tech: `Java 17` `Spring Boot 3` `Kafka` `PostgreSQL` `Redis` `Docker` `Kubernetes`
+- Tech: `Java 17` `Spring Boot 3` `Kafka` `PostgreSQL` `Redis` `Docker` `Prometheus`
 
 ### 📰 [BBC News Classification — CNN & LSTM](https://github.com/Chandu0501/bbc-news-classification)
 AI-powered news categorization system that classifies articles into Business, Politics, Sport, Tech & Entertainment.
