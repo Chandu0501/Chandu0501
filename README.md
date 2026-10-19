@@ -114,7 +114,25 @@ A scalable relational database system replicating Instagram's structure for user
 
 ---
 
+## 📈 What I'm Up To
+
+<!-- Sections below are refreshed automatically by .github/workflows/update-readme.yml -->
+
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
+<!-- LEETCODE:START -->
+<!-- LEETCODE:END -->
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+---
+
 ## 📊 GitHub Stats
+
+<!-- METRICS:START -->
+<!-- METRICS:END -->
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chandu0501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
