@@ -170,7 +170,7 @@ I'm focused on **Java Backend / Enterprise Application Developer** roles where I
 ---
 
 <p align="center">
-  📫 Let's connect — <a href="mailto:chanduvallaboju01@gmail.com">chanduvallaboju01@gmail.com</a>
+  📫 Let's connect — <a href="mailto:saichanduvallaboju@gmail.com">saichanduvallaboju@gmail.com</a>
 </p>
 
 <p align="center">
