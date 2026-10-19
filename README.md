@@ -114,6 +114,22 @@ A scalable relational database system replicating Instagram's structure for user
 
 ---
 
+## 🌍 Open Source Contributions
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | [Rename and relocate trie autocomplete implementation](https://github.com/TheAlgorithms/Java/pull/7459) | ✅ Merged |
+| [OpenRewrite · rewrite-spring](https://github.com/openrewrite/rewrite-spring) | [Fix DeleteSpringProperty parent key deletion](https://github.com/openrewrite/rewrite-spring/pull/1058) | 🔄 In review |
+| [OpenRewrite · rewrite-spring](https://github.com/openrewrite/rewrite-spring) | [Preserve Flyway module test scope during Flyway 10 migration](https://github.com/openrewrite/rewrite-spring/pull/1054) | 🔄 In review |
+| [WireMock](https://github.com/wiremock/wiremock) | [Add missing scenario state path to admin OpenAPI spec](https://github.com/wiremock/wiremock/pull/3504) | 🔄 In review |
+| [WireMock](https://github.com/wiremock/wiremock) | [Support trailing slash for admin docs](https://github.com/wiremock/wiremock/pull/3535) | 🔄 In review |
+| [PowSyBl Core](https://github.com/powsybl/powsybl-core) | [Fix split for time series with gaps](https://github.com/powsybl/powsybl-core/pull/3981) | 🔄 In review |
+| [PowSyBl Core](https://github.com/powsybl/powsybl-core) | [Remove dead tie-line limits group deserialization](https://github.com/powsybl/powsybl-core/pull/3985) | 🔄 In review |
+
+Plus documentation fixes for [WireMock's docs site](https://github.com/wiremock/wiremock.org/pulls?q=is%3Apr+author%3AChandu0501) and the [Spring Guides](https://github.com/pulls?q=is%3Apr+author%3AChandu0501+org%3Aspring-guides).
+
+---
+
 ## 📈 What I'm Up To
 
 <!-- Sections below are refreshed automatically by .github/workflows/update-readme.yml -->
