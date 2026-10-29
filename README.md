@@ -137,10 +137,11 @@ Plus documentation fixes for [WireMock's docs site](https://github.com/wiremock/
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
 
-1. 💪 Opened PR [#230](https://github.com/oscarbol09/jvm-mcp/pull/230) in [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>3 days ago</sub>
-2. 🍴 Forked [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>3 days ago</sub>
-3. ⬆️ Pushed to `main` in [Chandu0501/Chandu0501](https://github.com/Chandu0501/Chandu0501) · <sub>8 days ago</sub>
-4. ⬆️ Pushed to `main` in [Chandu0501/event-driven-order-pipeline](https://github.com/Chandu0501/event-driven-order-pipeline) · <sub>8 days ago</sub>
+1. 🎉 Merged PR [#230](https://github.com/oscarbol09/jvm-mcp/pull/230) in [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>today</sub>
+2. 💪 Opened PR [#230](https://github.com/oscarbol09/jvm-mcp/pull/230) in [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>3 days ago</sub>
+3. 🍴 Forked [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>3 days ago</sub>
+4. ⬆️ Pushed to `main` in [Chandu0501/Chandu0501](https://github.com/Chandu0501/Chandu0501) · <sub>9 days ago</sub>
+5. ⬆️ Pushed to `main` in [Chandu0501/event-driven-order-pipeline](https://github.com/Chandu0501/event-driven-order-pipeline) · <sub>9 days ago</sub>
 <!-- ACTIVITY:END -->
 
 <!-- LEETCODE:START -->
