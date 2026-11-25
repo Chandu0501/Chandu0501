@@ -139,9 +139,7 @@ Plus documentation fixes for [WireMock's docs site](https://github.com/wiremock/
 
 1. 🎉 Merged PR [#267](https://github.com/oscarbol09/jvm-mcp/pull/267) in [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>21 days ago</sub>
 2. 💪 Opened PR [#267](https://github.com/oscarbol09/jvm-mcp/pull/267) in [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>23 days ago</sub>
-3. 🎉 Merged PR [#230](https://github.com/oscarbol09/jvm-mcp/pull/230) in [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>26 days ago</sub>
-4. 💪 Opened PR [#230](https://github.com/oscarbol09/jvm-mcp/pull/230) in [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>30 days ago</sub>
-5. 🍴 Forked [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>30 days ago</sub>
+3. 🎉 Merged PR [#230](https://github.com/oscarbol09/jvm-mcp/pull/230) in [oscarbol09/jvm-mcp](https://github.com/oscarbol09/jvm-mcp) · <sub>27 days ago</sub>
 <!-- ACTIVITY:END -->
 
 <!-- LEETCODE:START -->
